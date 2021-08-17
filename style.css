@@ -10,6 +10,7 @@ body {
 }
 #credits{
 position: absolute;
+color: yellow;
 bottom:0;
 right:50px;
 font-weight: bold;
